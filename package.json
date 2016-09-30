@@ -1,0 +1,18 @@
+{
+  "name": "basic template",
+  "version": "1.0.0",
+  "author": "Andrew Gorohov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.3.0",
+    "gulp-watch": "^4.3.0",
+    "gulp-pug": "^1.1.0",
+    "gulp-cached": "^1.1.0",
+    "gulp-notify": "^2.2.0"
+  }
+}
